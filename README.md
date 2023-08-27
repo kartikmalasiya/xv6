@@ -13,13 +13,13 @@ Group Members :
 
 ## Work done :
 
-[Assignment 1](/assign1) :  **Implementated kernel threads and built spinlocks and mutexes.**
+[Assignment 1](/Assignment1) :  **Implementated kernel threads and built spinlocks and mutexes.**
 
-[Assignment 2](/assign2) : **Process Management and Scheduling in xv6.**
+[Assignment 2](/Assignment2) : **Process Management and Scheduling in xv6.**
 
-[Assignment 3](/assign3) : **Memory Management in xv6**
+[Assignment 3](/Assignment3) : **Memory Management in xv6**
 
-[Assignment 4](/assign4) : **Quantitative comparison of filesystems**
+[Assignment 4](/Assignment4) : **Quantitative comparison of filesystems**
 
 ---
 
